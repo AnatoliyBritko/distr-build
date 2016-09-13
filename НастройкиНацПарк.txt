@@ -6,4 +6,4 @@ reliz
 reliz
 
 \\fs\SRV-BACKUP\Ѕазы лесников\Ћесное хоз€йство 8.2\-= –елизы =-\Ќацѕарки\
-c:\Les82\MergeSettings.xml
+c:\tolik\-=GIT=-\-=distr-build=-\MergeSettings.xml
