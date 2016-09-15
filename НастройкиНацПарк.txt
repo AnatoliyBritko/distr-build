@@ -6,4 +6,5 @@ reliz
 reliz
 
 \\fs\SRV-BACKUP\Базы лесников\Лесное хозяйство 8.2\-= Релизы =-\НацПарки\
+НП
 c:\tolik\-=GIT=-\-=distr-build=-\MergeSettings.xml
